@@ -1,0 +1,18 @@
+
+
+@font-face{
+    font-family: miEstilo;
+    src: url("../fuentes/Blueberry\ Days.otf");
+    font-weight: 500;
+}
+
+h1{
+    font-family: miEstilo;
+    font-weight: 500;
+}
+
+
+
+@media screen {
+    
+}
